@@ -1,4 +1,4 @@
-
+package Hafta6;
 
 import java.util.Scanner;
 
@@ -156,3 +156,4 @@ public class RestoranSiparis {
 
         // Diğer indirimleri hesapla (combo, student, over200)
         double otherDiscounts
+
