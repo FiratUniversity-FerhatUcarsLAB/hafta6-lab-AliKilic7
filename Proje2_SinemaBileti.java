@@ -1,4 +1,4 @@
-
+package Hafta6;
 
 import java.util.Scanner;
 
@@ -150,3 +150,4 @@ public class SinemaBileti {
         sc.close();
     }
 }
+
