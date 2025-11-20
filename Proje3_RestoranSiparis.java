@@ -1,3 +1,9 @@
+/*
+ * Ad Soyad: Selahattin Ali KILIÇ
+ * Ogrenci No: 250541036
+ * Tarih: 20.11.2025
+ */
+
 package Hafta6;
 
 import java.util.Scanner;
@@ -156,4 +162,5 @@ public class RestoranSiparis {
 
         // Diğer indirimleri hesapla (combo, student, over200)
         double otherDiscounts
+
 
